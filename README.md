@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nileshsagar
 - 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning In Qspider
-- 💞️ I have knowldge Html-Css-Javascript-Bootstrap-ReactJs-Java-Sql-RestApi-JDBC
+- 🌱 I have done Java Full-Stack Developer Course In Qspider
+- 💞️ I have knowldge Html-Css-Javascript-Bootstrap-Java-Sql-RestApi-JDBC-Freameworks:Hibernate,Core Spring ,SpringBoot
 - 📫 Now I am Learning Java Freamworks Like SpingBoot,Hibernate
 -   I have Good Knowladge Of Oops,Arrays,String,Collections In Java
 - 😄 Pronouns: he/him
